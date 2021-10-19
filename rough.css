@@ -1,0 +1,30 @@
+.picture{
+    padding: 100px;
+    background-color:#f3f3f0;
+    width: 100%;
+    height: 100vh;
+}
+.text{
+    float: right;
+    margin-top: -400px;
+    margin-right:200px;
+}
+.text h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.text p{
+    font-family: sans-serif;
+    line-height: 30px;
+}
+#btn30{
+    padding: 13px;
+    border: 1px solid silver;
+    width: 180px;
+    background-color: black;
+    color: white;
+}
+#btn30:hover{
+    background-color: gray;
+}
